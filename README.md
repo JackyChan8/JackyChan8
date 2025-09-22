@@ -5,7 +5,7 @@
 I'm a Alexander Novikov, Software Developer focusing on Python. <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 <br />
 
-[![Linkedin Badge](https://img.shields.io/badge/-Telegram-blue?style=plastic&logo=telegram&logoColor=white&link=https://t.me/AlexanderBryksin)](https://t.me/dev5401)
+[![Linkedin Badge](https://img.shields.io/badge/-Telegram-blue?style=plastic&logo=telegram&logoColor=white&link=https://t.me/AlexanderBryksin)](https://t.me/test_user99)
 
 <br />
 
@@ -39,7 +39,3 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="25" height="25" />
 <img src="https://cdn.svgporn.com/logos/nestjs.svg" alt="postgresql" width="25" height="25" />
 </p>
-
-### Github stats
-
-<img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JackyChan8&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs" alt="JackyChan8">
