@@ -2,7 +2,7 @@
 
 # Hi there 👋
 
-I'm a Alexander Novikov, Software Developer focusing on Python. <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+I'm a Aleksandr Novikov, Software Developer focusing on Python. <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 <br />
 
 [![Linkedin Badge](https://img.shields.io/badge/-Telegram-blue?style=plastic&logo=telegram&logoColor=white&link=https://t.me/AlexanderBryksin)](https://t.me/test_user99)
